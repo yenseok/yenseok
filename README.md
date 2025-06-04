@@ -28,7 +28,7 @@
 <h3>📊 GitHub Stats & Baekjoon</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yenseok&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenseok&layout=compact&theme=radical" height="180px"/>
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=yes130" height="180px"/>
 </div>
 
