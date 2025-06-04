@@ -19,22 +19,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yenseok&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenseok&layout=compact&theme=radical" height="180px"/>
 </div>
 
----
 
-<h3>🏅 GitHub Trophy</h3>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yenseok&theme=radical&column=6&margin-w=10"/>
-</p>
-
----
-
-<h3>🔘 Activity Grade</h3>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yenseok&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
