@@ -29,7 +29,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yenseok&show_icons=true&theme=radical" height="180px"/>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=yes130" height="180px"/>
+  <img src="https://mazassumnida.wtf/api/generate_badge?boj=yes130" height="180px"/>
 </div>
 
 
