@@ -31,4 +31,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenseok&layout=compact&theme=radical" height="180px"/>
 </div>
 
+<h3>📚 Algorithm Practice</h3>
+
+<p>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=yes130" />
+</p>
+
+
 
